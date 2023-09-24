@@ -10,7 +10,7 @@ https://pyo3.rs/v0.19.2/
 ```
 
 ```Python
-%timeit count_word_occurrences(text, "needle"
+%timeit count_word_occurrences(text, "needle")
 399 ms ± 723 µs per loop (mean ± std. dev. of 7 runs, 1 loop each)
 ```
 
